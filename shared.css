@@ -1,0 +1,73 @@
+
+.main_header > div {
+    display: inline-block; 
+    padding: o;
+    margin: o;
+    vertical-align: middle;
+    
+ }
+ 
+ .main-nav__items {
+     display: inline-block;
+     text-align: right;
+     width: 100%;
+     font-size: 17px;
+     
+ }
+ 
+ .main-nav__item {
+     display: inline-block;
+     vertical-align: middle;
+     margin: 0 16px;
+ }
+ .main_nav {
+     margin: 0%;
+     padding: 0%;
+     list-style: none;
+     
+ }
+    .main_header__brand {
+        color: #0e4f1f;
+        font-weight: bold;
+        font-size: 25px;
+    }
+ 
+   .main-nav__item a {
+       text-decoration: none;
+       color: #0e4f1f;
+       font-weight: bold;
+       border-bottom: 5px solid white;
+       padding: 3px 0;
+       
+   }
+   .main-nav__item a:hover {
+    color: white;
+   }
+   .main-nav__item a:active {
+        color: white;
+   }
+   .main-nav__item--cta {
+       color: white;
+       background: #ff1b68;
+       padding: 8px 16px;
+       border-radius:8px ;
+   }
+   .main-nav__item--cta a:hover {
+    color: #ff1b68;
+    background: white;
+    border: none;
+   }
+   .main-nav__item--cta a:hover {
+       color: #ff1b68;
+       background: white;
+       border: none;
+   }
+
+   .main_nav1 {
+       font-size: 40px;
+       border: 2px 2px;
+       margin: 2px 2px;
+       text-align: center;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       color: rgba(96, 102, 116, 0.932);
+   }
